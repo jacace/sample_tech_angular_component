@@ -8,7 +8,7 @@ import { JavierPluginComponent } from './javier-plugin/javier-plugin.component';
 @NgModule({
   declarations: [
     AppComponent,
-    JavierPluginComponent
+    JavierPluginComponent /*added tag in ts*/
   ],
   imports: [
     BrowserModule,
